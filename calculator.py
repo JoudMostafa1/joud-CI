@@ -1,3 +1,3 @@
-def addition(a, b, operation):
+def calculate(a, b, operation):
     if operation == "+":
         return a + b
